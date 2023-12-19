@@ -1,4 +1,4 @@
 digraph Metadata {
 	node [fillcolor=lightgoldenrod1 shape=Mrecord style=filled]
-	"" [label="{Columns\l&nbsp; &nbsp; • categorical : 7\l&nbsp; &nbsp; • id : 1\l&nbsp; &nbsp; • numerical : 20\l|Primary key: op_id\l}"]
+	"" [label="{Columns\l&nbsp; &nbsp; • categorical : 4\l&nbsp; &nbsp; • numerical : 24\l}"]
 }
